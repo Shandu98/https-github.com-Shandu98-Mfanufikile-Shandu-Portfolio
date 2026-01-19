@@ -1,0 +1,7 @@
+{
+  "name": "Copy of DualCam Vision",
+  "description": "A professional-grade web application that allows users to simultaneously view and manage two camera feeds, perfect for multi-angle monitoring or front-and-back mobile capture.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
